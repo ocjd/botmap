@@ -6,11 +6,11 @@ A realtime map for Pokemon Go Bots
 * Ruby 2.0 or higher
 
 # Installation
-1. Place these files in a folder inside your bot's bin directory
+1. Place these files in a folder inside your bot's bin/Debug directory (this should be pokemonbotfolder/Debug/bin/botmap)
 2. Install the sinatra gem (gem install sinatra)
 
 # Usage
-1. Open the botmap folder (this should be pokemonbotfolder/bin/botmap) in a ruby activated console
+1. Open the botmap folder (this should be pokemonbotfolder/Debug/bin/botmap) in a ruby activated console
 2. Run this command: 
 `
 ruby sinatra.rb
